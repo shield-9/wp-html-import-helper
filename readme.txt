@@ -1,4 +1,4 @@
-=== # WP HTML Imports Helper ===
+=== WP HTML Imports Helper ===
 Contributors: extendwings
 Donate link: http://www.extendwings.com/donate/
 Tags: 
