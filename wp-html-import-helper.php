@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/shield-9/wp-html-imports-helper
  * Description: Add support for HTML Imports enqueue
  * Author: Daisuke Takahashi (Extend Wings)
- * Version: 0.1
+ * Version: 0.1.0
  * Author URI: https://www.extendwings.com
  * Text Domain: wp-html-imports-helper
  * Domain Path: /languages
