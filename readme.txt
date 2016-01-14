@@ -5,7 +5,7 @@ Tags:
 Requires at least: 4.3
 Tested up to: 4.4
 Stable tag: 0.1
-License: AGPLv3 or later
+License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/agpl.txt
 
 Add support for HTML Imports enqueue
@@ -17,7 +17,7 @@ This plugin adds support for HTML Imports enqueue.
 ### License
 * Copyright (c) 2012-2014 [Daisuke Takahashi(Extend Wings)](http://www.extendwings.com/)
 * Portions (c) 2010-2012 Web Online.
-* Unless otherwise stated, all files in this repo is licensed under *GNU AFFERO GENERAL PUBLIC LICENSE, Version 3*. See *LICENSE* file.
+* Unless otherwise stated, all files in this repo is licensed under *GNU GENERAL PUBLIC LICENSE, Version 3*. See *LICENSE* file.
 
 == Installation ==
 
